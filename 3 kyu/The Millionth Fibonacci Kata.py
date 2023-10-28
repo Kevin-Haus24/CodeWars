@@ -10,4 +10,4 @@ def fib(n):
         a, b = b, a + b
     return a
 
-print(fib(1_000_001))
+print(fib(1_000_000))
